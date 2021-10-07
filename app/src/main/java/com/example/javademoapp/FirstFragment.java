@@ -66,7 +66,6 @@ public class FirstFragment extends Fragment {
                countMe(view);
             }
         });
-
     }
 
     private void countMe(View view) {
