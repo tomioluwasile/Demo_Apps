@@ -44,7 +44,7 @@ class MainActivity : AppCompatActivity() {
 }
 
 class Dice(private val numSides: Int) {
-    // roll the dice and return a random value between 1 and number of sides
+    // roll the dice and return a random integer value between 1 and number of sides
     fun roll(): Int {
         return (1..numSides).random()
     }
