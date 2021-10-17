@@ -62,6 +62,7 @@
 
         <RadioGroup
             android:id="@+id/tip_options"
+            android:checkedButton="@id/option_fifteen_percent"
             style="@style/Widget.TipTime.CompoundButton.RadioButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
