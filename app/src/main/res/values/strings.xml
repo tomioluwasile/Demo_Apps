@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">I am worthy of getting what I want.</string>
+    <string name="affirmation2">I am open to change.</string>
+    <string name="affirmation3">I will accept the mysteries in life.</string>
+    <string name="affirmation4">Other people love me for who I am.</string>
+    <string name="affirmation5">I already have everything I need.</string>
+    <string name="affirmation6">People treat me with the respect I deserve.</string>
+    <string name="affirmation7">I can accept that everything should be as it is.</string>
+    <string name="affirmation8">Everything I need is already within me.</string>
+    <string name="affirmation9">I am brave.</string>
+    <string name="affirmation10">Miracles are all around me.</string>
+    <string name="affirmation11">I am comfortable speaking my mind.</string>
+    <string name="affirmation12">I appreciate everything I have in life.</string>
+    <string name="affirmation13">I appreciate everything I have in life.</string>
+    <string name="affirmation14">My life is rewarding.</string>
+    <string name="affirmation15">I will learn from the lessons life gives me.</string>
+</resources>
